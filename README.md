@@ -1,5 +1,6 @@
 Foundation Project
-To-Do-List
+
+The-to-Do-List
 A Simple To - Do Website!
 To Do List
 This web page is hosted here!
@@ -29,3 +30,10 @@ Contributions
 All contributors are most welcome! This is definitely open source!
 WEBSITE DEMO
 
+![test1](https://github.com/Tebogo2012/The-to-do-List/assets/126574363/ff3a10d7-f8cf-4e23-83f6-88cbb1ab031b)
+
+![test2](https://github.com/Tebogo2012/The-to-do-List/assets/126574363/bdc1df9d-aa7a-4713-96c1-2017228ca06b)
+
+![test3](https://github.com/Tebogo2012/The-to-do-List/assets/126574363/9328a52f-0328-48b0-b850-0f4f8340dd20)
+
+![test4](https://github.com/Tebogo2012/The-to-do-List/assets/126574363/ecbca2dd-7dcc-4cc6-a8d0-a48d454539a0)
